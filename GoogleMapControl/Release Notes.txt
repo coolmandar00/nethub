@@ -1,0 +1,4 @@
+
+Version 1.6 (September 3, 2009)
+================================
+Added driving directions support
